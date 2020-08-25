@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Dosis', sans-serif;
+}
+.container{
+    background-image: linear-gradient(to right,blue,rgb(116, 139, 173));
+    background-repeat: no-repeat;
+    height: 80vh;
+    color: white;
+    width: 100%;
+    font-family: 'Dosis', sans-serif;
+
+
+}
+.col-1 {
+    text-align: right;
+    align-items: center;
+    justify-content: center;
+    margin-right: 90px;
+    font-size: 19px;
+    padding-top: 20px;
+    position: sticky;
+    top: 0;
+}
+.col-1 a{
+    list-style: none;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.col-1 a:hover{
+    background-color: white;
+    color:black;
+}
+.col-2{
+    font-size: 20px;
+    padding-top: 160px;
+    margin-left:400px;
+}
+.col-2 h3{
+    margin-right: 300px;
+}
+.contain2 .cont-1{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 19px;
+}
+.cont-2{
+    padding-top: 20px;
+    text-align: center;
+}
+.cont-3{
+    text-align: center;
+    padding-top: 100px;
+}
+.cont-4{
+    text-align: center;
+    padding-top: 30px;
+}
+.cont-4 button{
+    padding: 10px;
+    border: none;
+    font-size: 16px;
+}
+.cont-4 button:hover{
+    background-color:black;
+    color: white;
+}
+.cont-5{
+    text-align: center;
+    background-color: black;
+    color:white;
+    font-size: 15px;
+    padding: 10px;
+    padding-top: 20px;
+}
